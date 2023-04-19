@@ -43,7 +43,8 @@ const Home = (props) => {
             <div className="home-container1">
               <img
                 alt="image"
-                src="https://presentation-website-assets.teleporthq.io/logos/logo.png"
+                src="/playground_assets/music-logo.png"
+                loading="lazy"
                 className="home-image1"
               />
               <div
